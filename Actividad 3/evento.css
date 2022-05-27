@@ -1,0 +1,121 @@
+body{
+	font-family: 'Libre Bodoni', serif;
+	margin: 0;
+	background-image: url('https://cdn.pixabay.com/photo/2021/09/06/05/55/love-6600904_1280.jpg');
+	backdrop-filter: brightness(30%);
+	color: #E4E3F2;
+}
+header{
+}
+h1{
+	margin: 0;
+	justify-content: center;
+	align-items: center;
+}
+
+.cabeza{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	width: 1280px;
+	height: 100px;
+	background-color: #000000;
+}
+.cabeza img{
+	position: relative;
+	height: 83px;
+	width: 256px;
+	top: -30px;
+}
+.cabeza h1{
+	padding-top: 30px;
+	z-index: 100;
+	position: relative;
+}
+
+.ubi{
+	margin-top: 150px;
+	margin-left: 50px;
+	border-radius: 10px;
+}
+
+.cuerpoo{
+	margin-right: 200px;
+	margin-top: 60px;
+	float: right;
+	display: flex;
+	width: 300px;
+	height: 100vh;
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50px;
+	background:linear-gradient(140deg,#414242 , #000000);
+	bottom: 100px;
+}
+.contee{
+	max-width: 300px;
+	width: 100%;
+	background:rgba(255,255,255,0.1);
+	padding: 25px 30px;
+	border-radius: 20px;
+}
+.contee .titulo{
+	font-size: 25px;
+	font-weight: 500;
+	text-align: center;
+}
+.contee form .detalle{
+	display: flex;
+	flex-wrap: wrap-reverse;
+	justify-content: space-between;
+}
+
+form .detalle .boton{
+	margin: 20px 0 12px 0;
+	width: calc(100% / 2 - 20);
+}
+.detalle .boton .info{
+	font-weight: 500;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.detalle .boton input{
+	height: 45px;
+	width: 100%;
+	margin-left: 10px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	font-size: 16px;
+	transition: all 0.3s ease;
+}
+
+form .enviar{
+	height: 45px;
+	margin: 45px 0;
+	padding-right: 50px;
+
+}
+form .enviar input{
+	width: 100%;
+	height: 100%;
+	color: #E4E3F2;
+	outline: none;
+	border:none;
+	background: #414242;
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	border-radius: 5px;
+}
+	form .enviar input:hover{
+		background: #000000;
+	}
+
+.ayuda{
+	padding-top: 10px; 
+	text-align: center;
+}
