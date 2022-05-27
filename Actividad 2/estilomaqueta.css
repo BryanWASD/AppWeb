@@ -1,0 +1,95 @@
+body{
+	font-family: arial;
+	padding: 0;
+	margin: 0;
+	border: solid;
+}
+header{
+height: 195px;
+width:1260px;
+background-color: blue;
+border: solid;
+}
+main{
+	width: 1260px;
+	height: 300px;
+	background-color: orange;
+	border: solid;
+
+}
+
+nav{
+	background-color: green;
+	border: 5px chartreuse;
+	width: 1260px;
+	height: 120px;
+
+}
+.xx{
+	background-color: white;
+	width: 300px;
+	height: 50px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+	border: solid;
+
+}
+.head{
+	background-color: white;
+	width: 930px;
+	height: 180px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+	border: solid;
+
+}
+.mm{
+	background-color: white;
+	width: 930px;
+	height: 290px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+}
+#as1{
+	background-color: white;
+	width: 150px;
+	height: 290px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+}
+#as2{
+	background-color: white;
+	width: 150px;
+	height: 290px;
+	float: right;
+	margin: 5px;
+	text-align: center;
+}
+.articulo{
+	background-color: white;
+	width: 240px;
+	height: 100px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+
+}
+/*aside{
+	background-color: white;
+	width: 150px;
+	height: 390px;
+	float: left;
+	margin: 5px;
+}*/
+footer{
+	text-align: center;
+	background-color: orange;
+	width: 1260px;
+	height: 50px;
+	border: solid;
+
+}
