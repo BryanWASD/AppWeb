@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lexend Deca', sans-serif;
+}
+.cuerpo{
+    margin-top: 70px;
+    width: 700px;
+    height: 450px;
+    background: lightslategrey;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.dato{
+    margin-bottom: 20px;
+}
+.inpu{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+#ola{
+    padding-top: 100px;
+}
+
+.cuerpo2{
+}

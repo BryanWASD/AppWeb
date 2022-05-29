@@ -1,0 +1,35 @@
+header{
+	height: 30px;
+}
+body{
+	font-family: 'Fredoka One', cursive;
+	background: burlywood;
+}
+
+.right{
+	float: right;
+	padding-right: 30px;
+}
+
+li{
+	display: inline;
+}
+
+.izq{
+	float: right;
+	padding-right: 290px;
+}
+.bug{
+	padding-top: 100px;
+	text-align: center;
+}
+.busca{
+	margin-left: 320px;
+	width: 500px;
+	display: inline-block;
+}
+
+footer{
+	padding-top: 245px;
+	text-align: center;
+}
